@@ -1,4 +1,7 @@
 # ddos
-ddos attack by ghostziyang
+ddos attack by ghostziyang<br>
 use it on <a href="">termux</a>
-then input: pkg install python
+then type in: <br><div style="background:gray">pkg install python
+<br>pip install colorama<br>
+pip install pyfiglet
+</div>

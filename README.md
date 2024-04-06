@@ -9,7 +9,11 @@ pip install pyfiglet
 <h1>Use On linux</h1>
 type in: <br><div style="background:gray!important">apt install python
 <br>pip install colorama<br>
-pip install pyfiglet
+pip install pyfiglet<br>
+pkg install git<br>
+git clone github.com/ghostziyang/ddos<br>
+cd ddos<br>
+python ddos.py
 </div>
 <h1>Use On Windows</h1>
 install <a href="python.org">python</a><br>
